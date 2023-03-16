@@ -1,1 +1,1 @@
-# trexgame1
+# trex-game
